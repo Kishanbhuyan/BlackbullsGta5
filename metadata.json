@@ -1,0 +1,6 @@
+{
+  "name": "BLACK BULLS - GTA 5 RP Gang Hub",
+  "description": "Official hub for the BLACK BULLS GTA 5 Roleplay gang. Watch live streams from Mota Bhai & Thunderbolt Gaming, catch highlights, shop exclusive merch, and connect with the community.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
