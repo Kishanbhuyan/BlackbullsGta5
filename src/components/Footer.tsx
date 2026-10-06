@@ -15,7 +15,7 @@ export function Footer({ streamers }: FooterProps) {
           <div className="md:col-span-2">
             <a href="#" className="flex items-center gap-3 font-display text-3xl tracking-wider text-white mb-4 group">
               <img
-                src="/src/assets/images/black_bulls_emblem_1790605389270.jpg"
+                src="/images/black_bulls_emblem_1790605389270.jpg"
                 alt="Black Bulls Syndicate Emblem"
                 className="h-9 w-9 rounded-md object-contain drop-shadow-[0_0_10px_rgba(220,38,38,0.4)] transition-transform duration-300 group-hover:scale-105"
               />

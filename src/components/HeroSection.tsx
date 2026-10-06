@@ -46,7 +46,7 @@ export function HeroSection({ streamers, liveStreams, onWatchLive, onShopMerch }
       <div className="absolute inset-0 z-0 overflow-hidden bg-[#08080a]">
         {/* Static high-res Los Santos poster (visible immediately and as underlay) */}
         <img
-          src="/src/assets/images/hero_gang_los_santos_1790601393984.jpg"
+          src="/images/hero_gang_los_santos_1790601393984.jpg"
           alt="Los Santos night cityscape"
           className={`absolute inset-0 h-full w-full object-cover object-center transition-opacity duration-1000 ${
             videoMode && videoLoaded ? 'opacity-35' : 'opacity-65'
@@ -91,7 +91,7 @@ export function HeroSection({ streamers, liveStreams, onWatchLive, onShopMerch }
         {/* Official Gang Emblem Logo */}
         <div className="mx-auto mb-4 flex justify-center">
           <img
-            src="/src/assets/images/black_bulls_emblem_1790605389270.jpg"
+            src="/images/black_bulls_emblem_1790605389270.jpg"
             alt="Black Bulls Los Santos Official Crest"
             className="h-28 w-28 sm:h-36 sm:w-36 object-contain drop-shadow-[0_10px_25px_rgba(220,38,38,0.5)] transition-transform duration-500 hover:scale-105"
           />

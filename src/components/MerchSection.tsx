@@ -23,7 +23,7 @@ const UPCOMING_DROP_ITEMS: UpcomingDropItem[] = [
     category: 'Outerwear',
     status: 'In Final Production',
     description: 'Custom 450 GSM French Terry cotton in washed obsidian black. Oversized gothic bull horns screenprint across the back with embroidered crimson crest on the left chest.',
-    image: '/src/assets/images/merch_hoodie_black_bulls_1790601418612.jpg',
+    image: '/images/merch_hoodie_black_bulls_1790601418612.jpg',
     features: ['450 GSM French Terry', '3D Metallic Horns Embroidery', 'Double-Lined Hood', 'Custom Syndicate Woven Labels']
   },
   {

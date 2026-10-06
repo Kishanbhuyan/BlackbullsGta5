@@ -34,7 +34,7 @@ export function Navbar({
           className="group flex items-center gap-3 font-display text-2xl tracking-wider text-white transition-transform hover:scale-[1.02]"
         >
           <img
-            src="/src/assets/images/black_bulls_emblem_1790605389270.jpg"
+            src="/images/black_bulls_emblem_1790605389270.jpg"
             alt="Black Bulls Syndicate Emblem"
             className="h-10 w-10 rounded-md object-contain drop-shadow-[0_0_12px_rgba(220,38,38,0.4)] transition-transform duration-300 group-hover:scale-110"
           />

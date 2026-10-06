@@ -58,7 +58,7 @@ export function getInitialSeedData() {
       kickUrl: 'https://kick.com/motabhai',
       kickUsername: 'motabhai',
       instagramUrl: 'https://www.instagram.com/ig_krishmalik/',
-      photo: '/src/assets/images/motabhai_dp_1790605203522.jpg',
+      photo: '/images/motabhai_dp_1790605203522.jpg',
       isActive: true,
       order: 1,
     },
@@ -74,7 +74,7 @@ export function getInitialSeedData() {
       kickUrl: 'https://kick.com/thunderboltgaming',
       kickUsername: 'thunderboltgaming',
       instagramUrl: 'https://www.instagram.com/thunderboltgaming/',
-      photo: '/src/assets/images/thunderbolt_dp_1790605192456.jpg',
+      photo: '/images/thunderbolt_dp_1790605192456.jpg',
       isActive: true,
       order: 2,
     }
@@ -88,7 +88,7 @@ export function getInitialSeedData() {
       price: 64.99,
       category: 'Hoodies',
       images: [
-        '/src/assets/images/merch_hoodie_black_bulls_1790601418612.jpg'
+        '/images/merch_hoodie_black_bulls_1790601418612.jpg'
       ],
       sizes: ['S', 'M', 'L', 'XL', '2XL'],
       inStock: true,
@@ -149,7 +149,7 @@ export function getInitialSeedData() {
     tagline: 'Born from asphalt, forged in gunfire, ruling Los Santos with honor.',
     leadParagraph: 'Before the name Black Bulls echoed through every alleyway from Strawberry to Vinewood Hills, there were two men in a stolen Declasse Granger with fifty rounds of ammo and a dream to take over the city.',
     fullLore: 'The Black Bulls was founded on the premier GTA 5 Roleplay server by streamers Krish Malik (Mota Bhai) and Ansh Mehta (Thunderbolt Gaming / Kancha Bhau). Starting with low-level contraband logistics and clandestine street races in Cypress Flats, their relentless loyalty and razor-sharp roleplay quickly made them the most feared and respected faction in the server. Today, the Black Bulls command high-stakes territory, run legitimate fronts, and defend their crew against any rival syndicate that dares cross the horns.',
-    heroImage: '/src/assets/images/black_bulls_emblem_1790605389270.jpg',
+    heroImage: '/images/black_bulls_emblem_1790605389270.jpg',
     chapters: [
       {
         id: 'chap_1',

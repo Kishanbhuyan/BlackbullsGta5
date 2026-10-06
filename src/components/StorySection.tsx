@@ -36,7 +36,7 @@ export function StorySection({ story }: StorySectionProps) {
           <div className="lg:col-span-7 flex flex-col gap-6">
             <div className="relative overflow-hidden rounded-lg border border-neutral-800 group aspect-video">
               <img
-                src={story.heroImage || '/src/assets/images/black_bulls_emblem_1790605389270.jpg'}
+                src={story.heroImage || '/images/black_bulls_emblem_1790605389270.jpg'}
                 alt="Black Bulls Syndicate Emblem"
                 className="h-full w-full object-cover transition-transform duration-700 group-hover:scale-105"
                 referrerPolicy="no-referrer"
